@@ -1,6 +1,4 @@
-Here's a sample **README.md** for your GitHub repository that details the login/signup functionality, MongoDB integration, EJS templating, profile section, and other features you've implemented.
 
----
 
 # Authentication & Profile Management System
 
