@@ -31,7 +31,7 @@ A simple full-stack web application built using **Node.js**, **Express.js**, **M
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Aditya1or0/express-auth-authorization.git
-   cd your-repository-name
+   cd express-auth-authorization
    ```
 
 2. **Install dependencies**:
