@@ -2,7 +2,7 @@
 
 # Authentication & Profile Management System
 
-A simple full-stack web application built using **Node.js**, **Express.js**, **MongoDB**, **EJS**, and **Multer**. This project provides user authentication (login and signup) and includes a profile management section where users can post notes, upload profile images, and like posts.
+A simple full-stack web application built using **Node.js**, **Express.js**, **MongoDB** . This project provides user authentication (login and signup) and includes a profile management section where users can post notes, upload profile images, and like posts.
 
 ## Features
 
