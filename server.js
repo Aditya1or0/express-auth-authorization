@@ -112,7 +112,6 @@ app.post("/register", async (req, res) => {
 
     res.cookie("token", token);
     res.redirect("/login");
-    // res.status(201).send("User registered successfully ,Now you can login");
   } catch (error) {
     console.error("Registration error:", error);
     res
